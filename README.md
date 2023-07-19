@@ -1,2 +1,2 @@
 # Simone
-https://ammaryasser21.github.io/Simone/index.html
+https://ammaryasser21.github.io/Simone
